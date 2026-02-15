@@ -1,0 +1,7 @@
+/target/
+/dist/
+suivanity-linux-x86_64
+suivanity-windows-x86_64.exe
+*.log
+*.tmp
+.DS_Store
